@@ -1,2 +1,2 @@
-# ucsd-cse25.github.io
+# CSE 25 at UCSD
 Course Website for CSE 25
