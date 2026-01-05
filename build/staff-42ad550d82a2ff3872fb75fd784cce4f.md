@@ -61,7 +61,7 @@ downloads: []
 ::::{card}
 :header: Lulu Shao
 :footer: sishao@ucsd.edu
-:::{image} staff-images/portrait_placeholder.png
+:::{image} staff-images/Lulu_Shao.jpeg
 :alt: Headshot of Lulu Shao
 :class: staff-headshot
 :::
