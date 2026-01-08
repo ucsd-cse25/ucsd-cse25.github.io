@@ -1,0 +1,77 @@
+---
+title: Research
+downloads: []
+---
+## Study Overview
+
+The instructor of this course, **Dr. Trevor Bonjour (UC San Diego)**, is conducting a research study. The purpose of this study is to understand how students experience an introductory AI course that uses a neural-networks-first approach. The study examines:
+
+- Perceptions of course difficulty, pacing, and workload
+- Confidence in learning AI concepts
+- How prior coding and mathematics experience relate to engagement and learning
+
+---
+
+## Required Course Activities vs. Research Use of Data
+
+The surveys are **required as part of the course**. However, **using this data for research is optional**.
+
+- Completing surveys is required for the course
+- Allowing your data to be used for research is voluntary
+- If you opt out at any time, your data will **not be used for research purposes**
+- Opting out does **not** affect your grade, standing, or access to course resources
+
+---
+
+## What Participation May Involve
+
+If you allow your data to be used for research, this may include:
+
+- **Pre-course survey** (5–10 minutes)
+- **Weekly “one-minute-paper” surveys**
+- **Post-course survey** (5–10 minutes)
+- **Optional interview**: You may be invited to participate in a short, optional interview after completing the course. This interview will focus on your learning experience, perceptions, and reflections on the neural-networks-first approach used in the Introduction to Artificial Intelligence course. These interviews allow for more in-depth discussions and will allow students to share their experiences and perspectives in greater detail. With your permission, the interview will be audio recorded for transcription and analysis purposes.
+
+Participation lasts approximately the length of the course.
+
+---
+
+## Eligibility
+
+- This research includes only participants who are **18 years of age or older**
+- If you are **under 18**, your data will automatically **not** be used for research
+- No action is required if you are under 18
+
+---
+
+## Voluntary Participation and Opting Out
+
+- Research participation is voluntary
+- You may opt out at any time during the quarter
+- You may skip any question
+- If you opt out, **all past and future course data will be excluded from the research dataset**
+
+---
+
+## Privacy and Confidentiality
+
+To protect your privacy:
+
+- Your responses will be anonymized using a unique participant ID.
+- Any audio recordings will be stored securely on encrypted servers and accessed only by authorized research team members.
+- Your responses will be shared only in de-identified, aggregated form (e.g., summary statistics) and will not contain any personally identifying information.
+- The de-identified data may be retained indefinitely and used for future research.
+
+---
+
+## How to Opt Out
+
+If you do not want your survey data used for research, complete the opt-out form below.
+
+**[Opt-Out Form Link](https://forms.gle/1tLzjFAZsuPGnzr67)**
+
+---
+
+## Questions
+
+If you have questions about this study or your rights as a participant, please contact Trevor Bonjour: <tbonjour@ucsd.edu>.
