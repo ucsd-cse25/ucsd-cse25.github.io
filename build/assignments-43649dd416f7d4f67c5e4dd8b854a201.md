@@ -19,6 +19,8 @@ Read Alan Turing’s *“Computing Machinery and Intelligence”*.
 
 Write a **200–350 word summary** in your own words.
 
+**Note:** We will discuss this paper in class on **Tue, Jan 13**.
+
 **Accessing the paper**
 
 Paper link: https://doi.org/10.1093/mind/LIX.236.433
