@@ -119,3 +119,32 @@ Topics and exact pacing are **tentative** and may shift as the quarter progresse
 - We'll go over DataHub and a Python review.
 - Download the [Python Review Notebook](resources/python_review.ipynb).
 :::
+
+:::{admonition} 📖 In-Class: Tue, Jan 13
+:icon: false
+:open: false
+:class: warning
+
+**Worksheet**
+
+- [Worksheet 3](https://docs.google.com/document/d/1h8h-G7PrgDcjiyJb5vYL0DWLBsHq8EnTOC35zztwx30/edit?usp=sharing)
+
+**In-Class Activities**
+
+1. **The Imitation Game (Turing, Sections 1–5)**  
+   Individual reflection followed by small-group discussion on what the Imitation Game captures about intelligence and what it leaves unresolved.
+
+2. **Learning Machines (Turing, Section 7)**  
+   <!-- Jigsaw-style group activity. We will read and teach each other different parts of Turing’s discussion on child machines, rewards and punishments, and learning with opacity and randomness. -->
+   Read and discuss different parts of Turing’s argument about learning machines, then explain your section to your group.
+
+3. **Engineered vs. Learned Intelligence**  
+   Work in small groups to classify AI systems as engineered or learned and justify your reasoning.
+
+4. **What Is Required for Learned Intelligence**
+   Reflect individually on what a system needs in order to learn, then contribute your ideas to a shared class list.
+
+**Submission**
+
+- Upload a PDF of the completed worksheet to Gradescope under `In-Class – Week 2 Tuesday`
+:::
