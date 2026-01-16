@@ -174,16 +174,23 @@ Topics and exact pacing are **tentative** and may shift as the quarter progresse
    Identify whether example systems use supervised, unsupervised, or reinforcement learning and explain why.
 
 5. **Designing a Learning System**
-   Individually propose a learning system by defining the problem, the type of data or experience needed, the learning paradigm, and what success would look like.
+   Individually propose a learning system by defining the problem, the type of data or experience needed, the learning paradigm, and what success would look like. (PLEASE SUBMIT THIS AS HW2)
 
 **Submission**
 
 - Upload a PDF of the completed worksheet to Gradescope under `In-Class – Week 2 Thursday`
 :::
 
-<!-- :::{admonition} 📋 [Week 2 Reflection](https://forms.gle/LLYp9thSUXmZ4tAi6) – Due: Sun, Jan 18, **11:59 PM PT**
+:::{admonition} 📋 [Week 2 Reflection](https://forms.gle/LLYp9thSUXmZ4tAi6) – Due: Sun, Jan 18, **11:59 PM PT**
 :icon: false
 :open: false
 :class: tip
 Please complete the weekly reflection survey by Sunday - It should only take a minute.
-::: -->
+:::
+
+:::{admonition} 📝 {ref}`HW2` – Due: Tue, Jan 20, **1:59 PM PT** (before class)
+:icon: false
+:open: false
+:class: danger
+{ref}`HW2`
+:::
