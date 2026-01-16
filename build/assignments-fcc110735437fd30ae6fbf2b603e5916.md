@@ -119,7 +119,7 @@ Overall, Turing concludes that the question of whether machines can think should
 
 Make a copy of [HW2](https://docs.google.com/document/d/1CO6nH7m9FuzPZK7VU7DZgQs53vnkoBh5Gb-ll4L5Yfw/edit?usp=sharing), answer the questions, and submit your responses as a PDF under HW2 on Gradescope.
 
-Be creative! You may use an LLM to bounce ideas off of, but don’t outsource your thinking or creativity to it. I’ll post this on the course website as well.
+Be creative! You may use an LLM to bounce ideas off of, but don’t outsource your thinking or creativity to it.
 
 Even if you completed Activity 5 as part of the in-class worksheet, please make sure to submit a copy of that to HW2 to receive credit.
 
