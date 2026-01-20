@@ -202,10 +202,11 @@ Please complete the weekly reflection survey by Sunday - It should only take a m
 :open: false
 :class: warning
 
+Log in to [DataHub](https://datahub.ucsd.edu/) using your UCSD account. Then click on the worksheet link below - it should directly open the worksheet in DataHub.
+
 **Worksheet**
 
 - Open on DataHub directly: [Worksheet 5](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/lectures/01-fit-a-line.ipynb)
-  *(You may be prompted to log in with your UCSD account.)*
 
 - If the DataHub link does not work, [download the notebook from GitHub](https://github.com/tbonjour-courses/cse25-wi26/blob/main/lectures/01-fit-a-line.ipynb) and upload it to DataHub.
 :::
