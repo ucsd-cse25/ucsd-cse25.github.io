@@ -111,9 +111,7 @@ Assignment instructions will specify the submission format, deadlines, any grace
 
 There will be an open-ended group project that serves as the final for the class. Students will work in teams to explore an AI problem or application using ideas from the course. The project is due during the **official final exam window**. More details, milestones, and evaluation criteria will be released later in the quarter.
 
-<div style="background-color: white; padding: 10px; border-radius: 5px;">
-  <iframe src="_static/CSE25_Project_Guidelines_release.pdf" width="100%" height="800px" style="border: none;"></iframe>
-</div>
+<iframe src="http://localhost:3100/CSE25_Project_Guidel-f7b0deb67a2e82eddd15d4974b504224.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 ### Tests
 
