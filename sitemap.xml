@@ -11,6 +11,9 @@
     <loc>http://localhost:3000/assignments</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/final-project</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/syllabus</loc>
   </url>
   <url>
