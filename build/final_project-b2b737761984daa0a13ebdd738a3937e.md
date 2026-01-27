@@ -2,7 +2,8 @@
 title: Final Project
 downloads: []
 ---
-<iframe src="_static/CSE25_Project_Guidelines_release2.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<!-- <iframe src="_static/CSE25_Project_Guidelines_release2.pdf" width="100%" height="800px" style="border: none;"></iframe> -->
+Final Project [guidelines](resources/CSE25_Project_Guidelines_release.pdf).
 
 ::::{admonition} 📝 Teams Formation – Due: Thu, Feb 5, **11:59 PM PT**
 :icon: false
