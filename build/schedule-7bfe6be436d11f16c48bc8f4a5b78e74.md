@@ -276,3 +276,17 @@ Please complete the weekly reflection survey by Sunday - It should only take a m
 - Final Project [guidelines](resources/CSE25_Project_Guidelines_release.pdf)
 <!-- Python Programming: Lists, dicts, classes, numpy, matplotlib -->
 :::
+
+:::{admonition} 📖 In-Class: Tue, Jan 27
+:icon: false
+:open: false
+:class: warning
+
+Log in to [DataHub](https://datahub.ucsd.edu/) using your UCSD account. Then click on the worksheet link below - it should directly open the worksheet in DataHub.
+
+**Worksheet**
+
+- Open on DataHub directly: [Worksheet 6](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/lectures/02-fit-a-line-2.ipynb)
+
+- If the DataHub link does not work, [download the notebook from GitHub](https://github.com/tbonjour-courses/cse25-wi26/blob/main/lectures/02-fit-a-line-2.ipynb) and upload it to DataHub.
+:::
