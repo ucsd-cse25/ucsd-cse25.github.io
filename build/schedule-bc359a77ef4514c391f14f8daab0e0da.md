@@ -240,6 +240,8 @@ In today's class we will:
 
 - If the DataHub link does not work, [download the notebook from GitHub](https://github.com/tbonjour-courses/cse25-wi26/blob/main/lectures/01-fit-a-line.ipynb) and upload it to DataHub.
 
+- [Filled Worksheet]((https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/lectures/01-fit-a-line_filled.ipynb))
+
 **Submission**
 
 - Upload a PDF of the completed worksheet to Gradescope under `In-Class – Week 3 Thursday`
@@ -289,4 +291,6 @@ Log in to [DataHub](https://datahub.ucsd.edu/) using your UCSD account. Then cli
 - Open on DataHub directly: [Worksheet 6](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/lectures/02-fit-a-line-2.ipynb)
 
 - If the DataHub link does not work, [download the notebook from GitHub](https://github.com/tbonjour-courses/cse25-wi26/blob/main/lectures/02-fit-a-line-2.ipynb) and upload it to DataHub.
+
+- [Filled Worksheet](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/lectures/02-fit-a-line-2-filled(Tuesday).ipynb)
 :::
