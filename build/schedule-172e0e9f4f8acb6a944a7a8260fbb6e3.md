@@ -188,6 +188,20 @@ Topics and exact pacing are **tentative** and may shift as the quarter progresse
 Please complete the weekly reflection survey by Sunday - It should only take a minute.
 :::
 
+## Week 5
+
+<!-- *Week of Feb 2* -->
+
+:::{admonition} 💬 Discussion: Mon, Feb 2
+:icon: false
+:open: false
+:class: note
+
+**Overview**
+
+- Open on DataHub directly: [Discussion 3 Notebook](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/Discussions/CSE25_Discussion_3.ipynb). Not required for submission.
+:::
+
 :::{admonition} 📝 {ref}`HW2` – Due: Tue, Jan 20, **1:59 PM PT** (before class)
 :icon: false
 :open: false
