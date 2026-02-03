@@ -188,6 +188,13 @@ Topics and exact pacing are **tentative** and may shift as the quarter progresse
 Please complete the weekly reflection survey by Sunday - It should only take a minute.
 :::
 
+:::{admonition} 📝 {ref}`HW2` – Due: Tue, Jan 20, **1:59 PM PT** (before class)
+:icon: false
+:open: false
+:class: danger
+{ref}`HW2`
+:::
+
 ## Week 3
 
 :::{admonition} 📖 In-Class: Tue, Jan 20
@@ -345,14 +352,7 @@ Please complete the weekly reflection survey by Sunday - It should only take a m
 
 **Resources**
 
-- PA1 writeup (PDF): https://github.com/tbonjour-courses/cse25-wi26/blob/main/Programming%20Assignments/PA1/pa1_25_writeup.pdf
+- [PA1 writeup (PDF)](https://github.com/tbonjour-courses/cse25-wi26/blob/main/Programming%20Assignments/PA1/pa1_25_writeup.pdf)
 - Open on DataHub directly: [PA1 Starter Notebook](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/Programming%20Assignments/PA1/PA1_starter.ipynb)
-:::
-
-:::{admonition} 📝 {ref}`HW2` – Due: Tue, Jan 20, **1:59 PM PT** (before class)
-:icon: false
-:open: false
-:class: danger
-{ref}`HW2`
 :::
 

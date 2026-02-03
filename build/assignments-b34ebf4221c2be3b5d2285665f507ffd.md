@@ -149,7 +149,7 @@ Complete Programming Assignment 1 (PA1).
 
 **Resources**
 
-- PA1 writeup (PDF): https://github.com/tbonjour-courses/cse25-wi26/blob/main/Programming%20Assignments/PA1/pa1_25_writeup.pdf
+- [PA1 writeup (PDF)](https://github.com/tbonjour-courses/cse25-wi26/blob/main/Programming%20Assignments/PA1/pa1_25_writeup.pdf)
 - Open on DataHub directly: [PA1 Starter Notebook](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/Programming%20Assignments/PA1/PA1_starter.ipynb)
 
 **Submission**
