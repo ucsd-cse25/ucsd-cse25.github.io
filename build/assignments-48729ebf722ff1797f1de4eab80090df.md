@@ -141,7 +141,7 @@ Even if you completed Activity 5 as part of the in-class worksheet, please make 
 :open: false
 :class: danger
 
-## PA1 – Perceptron
+## PA1
 
 **Task**
 
