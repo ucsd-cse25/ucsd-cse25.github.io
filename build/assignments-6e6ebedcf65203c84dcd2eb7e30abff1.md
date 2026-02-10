@@ -162,12 +162,12 @@ Complete Programming Assignment 1 (PA1).
 ::::
 
 
-::::{admonition} 💻 PA1 – Perceptron – Due: Tue, Feb 10, **11:59 PM PT**
+::::{admonition} 💻 PA2 – Perceptron – Due: Tue, Feb 24, **11:59 PM PT**
 :icon: false
 :open: false
 :class: danger
 
-## PA1
+## PA2
 
 **Task**
 
@@ -180,7 +180,6 @@ Complete Programming Assignment 2 (PA2).
 **Submission**
 
 - Submit on Gradescope under `PA2`
-- Deadline: 2/24 11:59 PM
 
 **Late policy**
 
