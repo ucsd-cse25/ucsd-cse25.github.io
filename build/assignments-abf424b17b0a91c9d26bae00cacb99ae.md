@@ -162,7 +162,7 @@ Complete Programming Assignment 1 (PA1).
 ::::
 
 
-::::{admonition} 💻 PA2 – Perceptron – Due: Tue, Feb 24, **11:59 PM PT**
+::::{admonition} 💻 PA2 – Feedforward Neural Networks (FFNN) – Due: Tue, Feb 24, **11:59 PM PT**
 :icon: false
 :open: false
 :class: danger
