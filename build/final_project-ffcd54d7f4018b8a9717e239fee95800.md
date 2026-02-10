@@ -40,7 +40,15 @@ Final Project [guidelines](resources/CSE25_Project_Guidelines_release.pdf).
 
 ## Project Proposal
 
-TO BE ADDED
+Submit a brief (<2 page) proposal describing your problem, dataset, general approach etc.
+
+Some times to address:
+- What type of problem are you trying to solve? (e.g. image classification, recommender systems, etc.) Describe the problem in greater detail. Why is it interesting?
+- What dataset are you using?
+- How will you process the data?
+- What is your main model? (e.g. Convolutional Neural Networks, Tabular Q-learning, etc.)
+- What evaluation metrics will you use to assess model performance?
+- What baseline models will you use to evaluate performance of the main model?
 
 **Grading**
 
