@@ -442,3 +442,34 @@ Then click the worksheet link below to open it directly in DataHub.
 :class: tip
 Please complete the weekly reflection survey by Sunday - It should only take a minute.
 :::
+
+## Week 6
+
+::::{admonition} 📖 In-Class: Tue, Feb 10
+:icon: false
+:open: false
+:class: warning
+
+**Reminders**
+
+- {ref}`PA1` is due today.
+- [Final Project](final_project.md) - Project proposal is due this `Thursday`.
+- `Weekly reflections` are due by Sunday and count toward your participation grade. Will be released after thursday's class.
+
+**In-Class Activity**
+
+Today, we will work through **Worksheet 9**.
+
+Log in to [DataHub](https://datahub.ucsd.edu/) using your UCSD account.  
+Then click the worksheet link below to open it directly in DataHub.
+
+**Worksheet**
+
+- Open on DataHub directly: [Worksheet 9](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/lectures/05-backprop-1.ipynb)
+
+- If the DataHub link does not work, [download the notebook from GitHub](https://github.com/tbonjour-courses/cse25-wi26/blob/main/lectures/05-backprop-1.ipynb) and upload it to DataHub.
+
+**Submission**
+
+- Upload a PDF of the completed worksheet to Gradescope under `In-Class – Week 6 Tuesday`.
+::::
