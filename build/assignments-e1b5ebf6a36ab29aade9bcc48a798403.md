@@ -160,3 +160,30 @@ Complete Programming Assignment 1 (PA1).
 
 - Up to **one week late** accepted
 ::::
+
+
+::::{admonition} 💻 PA1 – Perceptron – Due: Tue, Feb 10, **11:59 PM PT**
+:icon: false
+:open: false
+:class: danger
+
+## PA1
+
+**Task**
+
+Complete Programming Assignment 2 (PA2).
+
+**Resources**
+
+- [PA2 writeup (PDF)](https://github.com/tbonjour-courses/cse25-wi26/blob/main/Programming%20Assignments/PA1/pa1_25_writeup.pdf)
+- Open on DataHub directly: [PA2 Starter Notebook](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/Programming%20Assignments/PA1/PA1_starter.ipynb)
+
+**Submission**
+
+- Submit on Gradescope under `PA2`
+- Deadline: 2/24 11:59 PM
+
+**Late policy**
+
+- Up to **one week late** accepted
+::::
