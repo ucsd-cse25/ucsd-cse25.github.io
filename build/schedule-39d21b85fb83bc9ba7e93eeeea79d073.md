@@ -548,5 +548,6 @@ Then click the worksheet link below to open it directly in DataHub.
 
 **Submission**
 
-- Upload a PDF of the completed worksheet to Gradescope under `In-Class – Week 7 Tuesday`.
+- Upload a PDF of the completed `Worksheet 10` to Gradescope under `In-Class – Week 7 Tuesday`
+- To receive credit, your submission must include an attempted solution for: *Exercise: Update the `_backward()` functions for `add`, `mul`, and `sigmoid_func` **in the next cell** so they correctly propagate gradients using the chain rule.*
 ::::
