@@ -559,7 +559,7 @@ Then click the worksheet link below to open it directly in DataHub.
 
 **Reminders**
 
-- Test 2 is next week - `Week 8`. Please schedule your {ref}`Tests` if you haven't already done so.
+- Test 2 is next week - `Week 8`. Please schedule your {ref}`Tests` if you haven't already done so. It covers all material from `Week 4` to `Week 7`.
 - PA 2 is due `next Tuesday`. Please start early!
 - Project Proposal feedback should be out soon - please review the feedback and talk to your assigned mentor if needed.
 - `Weekly reflections` are due by Sunday and count toward your participation grade. Will be released after thursday's class.
