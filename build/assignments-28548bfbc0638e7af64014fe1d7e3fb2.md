@@ -200,7 +200,7 @@ Complete Programming Assignment 3 (PA3).
 **Resources**
 
 - [PA3 writeup (PDF)](https://github.com/tbonjour-courses/cse25-wi26/blob/main/Programming%20Assignments/PA3/PA3_writeup.pdf)
-- Open on DataHub directly: [PA3 Folder](https://datahub.ucsd.edu/hub/user-redirect/lab/tree/cse25-wi26/Programming%20Assignments/PA3)
+- Open on DataHub directly: [PA3 Starter Code](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/Programming%20Assignments/PA3)
 - If the DatHub link doesn't work: [PA 3 Folder](https://github.com/tbonjour-courses/cse25-wi26/tree/main/Programming%20Assignments/PA3)
 **Submission**
 
