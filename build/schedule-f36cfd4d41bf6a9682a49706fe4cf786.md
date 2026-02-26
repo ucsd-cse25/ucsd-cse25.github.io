@@ -652,3 +652,32 @@ Then click the worksheet link below to open it directly in DataHub.
 - Upload a PDF of the completed `Worksheet 12` to Gradescope under `In-Class – Week 8 Tuesday`
 
 ::::
+
+::::{admonition} 📖 In-Class: Thu, Feb 26
+:icon: false
+:open: false
+:class: warning
+
+**Reminders**
+
+- {ref}`PA3` is is due by next Tuesday.
+- [Final Project](final_project.md): **Progress report** is due by next Thursday - It counts for 10% of the project grade.
+- `weekly reflections` are due by sunday and count toward your participation grade. will be released after thursday's class.
+
+**In-Class Activity**
+
+Today, we will be working on **Worksheet 13**.
+
+Log in to [DataHub](https://datahub.ucsd.edu/) using your UCSD account.  
+Then click the worksheet link below to open it directly in DataHub.
+
+**Worksheet 13**
+
+- Open on DataHub directly: [Worksheet 13](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/lectures/09_language_models-2.ipynb)
+
+- If the DataHub link does not work, [download the notebook from GitHub](https://github.com/tbonjour-courses/cse25-wi26/blob/main/lectures/09_language_models-2.ipynb) and upload it to DataHub.
+
+**Submission**
+
+- Upload a PDF of the completed `Worksheet 13` to Gradescope under `In-Class – Week 8 Tuesday`
+::::
