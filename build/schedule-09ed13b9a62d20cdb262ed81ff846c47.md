@@ -681,3 +681,10 @@ Then click the worksheet link below to open it directly in DataHub.
 
 - Upload a PDF of the completed `Worksheet 13` to Gradescope under `In-Class – Week 8 Tuesday`
 ::::
+
+:::{admonition} 📋 [Week 8 Reflection](https://forms.gle/DtYxMELpbZMwUnQn6) – Due: Sun, Mar 01, **11:59 PM PT**
+:icon: false
+:open: false
+:class: tip
+Please complete the weekly reflection survey by Sunday - It should only take a minute.
+:::
