@@ -186,31 +186,6 @@ Complete Programming Assignment 2 (PA2).
 - Up to **one week late** accepted
 ::::
 
-::::{admonition} 💻 PA4 – Tabular Q-Learning – Due: Tue, Mar 10, **11:59 PM PT**
-:icon: false
-:open: false
-:class: danger
-
-## PA4
-
-**Task**
-
-Complete Programming Assignment 4 (PA4).
-
-**Resources**
-
-- [PA4 writeup (PDF)](https://github.com/tbonjour-courses/cse25-wi26/blob/main/Programming%20Assignments/PA4/PA4_writeup.pdf)
-- Open on DataHub directly: [PA4 Starter Notebook](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/Programming%20Assignments/PA4/PA4_starter.ipynb)
-
-**Submission**
-
-- Submit on Gradescope under `PA4`
-
-**Late policy**
-
-- Late submissions accepted until **Fri, Mar 13, 11:59 PM PT**
-::::
-
 ::::{admonition} 💻 PA3 – N-grams – Due: Tue, Mar 3, **11:59 PM PT**
 :icon: false
 :open: false
@@ -235,4 +210,29 @@ Complete Programming Assignment 3 (PA3).
 **Late policy**
 
 - Up to **one week late** accepted
+::::
+
+::::{admonition} 💻 PA4 – Tabular Q-Learning – Due: Tue, Mar 10, **11:59 PM PT**
+:icon: false
+:open: false
+:class: danger
+
+## PA4
+
+**Task**
+
+Complete Programming Assignment 4 (PA4).
+
+**Resources**
+
+- [PA4 writeup (PDF)](https://github.com/tbonjour-courses/cse25-wi26/blob/main/Programming%20Assignments/PA4/PA4_writeup.pdf)
+- Open on DataHub directly: [PA4 Starter Notebook](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https://github.com/tbonjour-courses/cse25-wi26&branch=main&urlpath=lab/tree/cse25-wi26/Programming%20Assignments/PA4/PA4_starter.ipynb)
+
+**Submission**
+
+- Submit on Gradescope under `PA4`
+
+**Late policy**
+
+- Late submissions accepted until **Fri, Mar 13, 11:59 PM PT**
 ::::
