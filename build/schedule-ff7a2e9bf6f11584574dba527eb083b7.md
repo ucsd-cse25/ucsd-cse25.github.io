@@ -250,7 +250,7 @@ In today's class we will:
 **Test 1 Prep**:
 
 - Please review the [Test 1 preparation notes](https://docs.google.com/document/d/1ApWo-N6NggMABsraDQC-x4TH0-nC9alQ4aZsRfGXQTY/edit?usp=sharing) and let us know if you have any questions or clarifications. 
-- We will work thruogh the [Practice Set 1](https://us.prairielearn.com/pl/course_instance/203200/assessment/2638829) on prairielearn.
+- We will work through the [Practice Set 1](https://us.prairielearn.com/pl/course_instance/203200/assessment/2638829) on prairielearn.
 
 ::::
 
@@ -366,7 +366,7 @@ Please complete the weekly reflection survey by Sunday - It should only take a m
 - {ref}`PA1` is released and is due by next Tuesday.
 - `Weekly reflections` are due by Sunday - these count towards your participation grade.
 
-**In-Class Acitivity**
+**In-Class Activity**
 
 We will finish working on Worksheet 7.
 
@@ -444,7 +444,7 @@ Please complete the weekly reflection survey by Sunday - It should only take a m
 :::
 
 ## Week 6
-:::{admonition} 💬 Discussion: Mon, Feb 0
+:::{admonition} 💬 Discussion: Mon, Feb 9
 :icon: false
 :open: false
 :class: note
@@ -594,7 +594,7 @@ Then click the worksheet link below to open it directly in DataHub.
 **Test 2 Prep**:
 
 - Please review the [Test 2 preparation notes](./resources/cse25_test2_prep_notes.pdf) and let us know if you have any questions or clarifications.
-- We will work thruogh the [Practice Set 2](https://us.prairielearn.com/pl/course_instance/203200/assessment/2650709) on prairielearn.
+- We will work through the [Practice Set 2](https://us.prairielearn.com/pl/course_instance/203200/assessment/2650709) on prairielearn.
 ::::
 
 :::{admonition} 📋 [Week 7 Reflection](https://forms.gle/VrdUttXQFcHLEVbr6) – Due: Sun, Feb 22, **11:59 PM PT**
@@ -687,4 +687,28 @@ Then click the worksheet link below to open it directly in DataHub.
 :open: false
 :class: tip
 Please complete the weekly reflection survey by Sunday - It should only take a minute.
+:::
+
+## Week 9
+
+:::{admonition} 💬 Discussion: Mon, Mar 2
+:icon: false
+:open: false
+:class: note
+
+**Overview**
+Notes:
+- We will introduce {ref}`PA4` and walk through expectations, workflow, and submission details.
+- Bring PA3/PA4 questions for live Q&A.
+:::
+
+:::{admonition} 💻 {ref}`PA4` - Tabular Q-Learning – Due: Tue, Mar 10, **11:59 PM PT**
+:icon: false
+:open: false
+:class: danger
+
+- Late due: Fri, Mar 13, **11:59 PM PT**
+- Submit on Gradescope under `PA4`
+{ref}`PA4`
+
 :::
