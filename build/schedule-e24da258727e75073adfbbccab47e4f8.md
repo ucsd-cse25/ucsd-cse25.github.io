@@ -719,7 +719,7 @@ Notes:
 
 **Reminders**
 
-- {ref}`PA3` is is due today Tuesday.
+- {ref}`PA3` is is due today.
 - [Final Project](final_project.md): **Progress report** is due this Thursday - It counts for 10% of the project grade.
 - {ref}`PA4` is out and due next Tuesday.
 - `Studen Evaluations`: Please take some time to complete the [SETs](https://academicaffairs.ucsd.edu/Modules/Evals). I’d love to hear what you enjoyed most about the class and any ideas you have for making it even better next year!
